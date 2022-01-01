@@ -2,3 +2,6 @@ Initial commit msg
 
 git commit -a without git add
 
+test commit
+
+Ssssss)
