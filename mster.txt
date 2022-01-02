@@ -3,3 +3,5 @@ This is master branch file
 Merge prepare? (master)
 
 test commit 
+
+Succecfully merged master and new_api
