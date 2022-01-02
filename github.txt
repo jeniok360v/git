@@ -1,2 +1,4 @@
 
 Simple github branch file
+
+Just added line
