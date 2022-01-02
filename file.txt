@@ -4,4 +4,4 @@ git commit -a without git add
 
 test commit
 
-Ssssss)
+Prepare to merge
