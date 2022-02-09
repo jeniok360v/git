@@ -1,6 +1,5 @@
-This is new branch init commit 
-
-
-second commit 
+This is new branch init commit
 
 fast forward check
+
+branch-second
